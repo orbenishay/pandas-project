@@ -2,7 +2,7 @@ how many rent in each station - Or - Done
 Dock count distribution by city- Or - Done
 correlation of mean temperature and duration trip- Hagai
 Duration by Weather _ or
-popular bike brand type & color - Hagai
+popular bike brand type & color - hagai
 start/end station by subscription_type 
 count rent by hour & weekday- Hagai
 correlation between the start station to the end station
