@@ -1,9 +1,22 @@
 how many rent in each station - Or - Done
 Dock count distribution by city- Or - Done
 correlation of mean temperature and duration trip- Hagai
-Duration by Weather _ or
-popular bike brand type & color - hagai
-start/end station by subscription_type 
-count rent by hour & weekday- Hagai
-correlation between the start station to the end station
+Duration by Weather _ or - Done
+popular bike brand type & color - hagai - Done
+start/end station by subscription_type heatmap - Hagai
+Characterize rentals by hour of day - Or
+correlation between Duration and various weather conditions - scatter matrix - Hagai
 ??? ????? ???? ??? ????? ????? ??????? ?????? ?????? ?????? ???? ??????
+
+21/1/2020 tasks:
+-Sort station rentals bar plot by count desc - Or
+-Duration by remperature: fix and organize - Or
+-Duration by remperature: convert to Hist - Hagai
+-Add labels/legend/axis titles/grid etc - or
+-Create plot are with Subplots - Hagai
+-Existing visualizations - convert to df_all - Hagai
+
+
+
+
+
